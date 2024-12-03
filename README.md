@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F93E4F&width=435&lines=Passionate+Developer+%7C+Programmer;Exploring+Fullstack+%7C+React+Native;Transforming+Ideas+into+Code" alt="Typing SVG" />
+</p>
+
 - 🔭 I’m currently working on **Placera**  
 - 🌱 I’m currently learning **React-Native**  
 - 👨‍💻 All of my projects are available [here](https://github.com/keshavchauhan-7)  
@@ -28,7 +32,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
