@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Chauhan</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keshavchauhan-7&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
 ---
 
 <p align="center">
