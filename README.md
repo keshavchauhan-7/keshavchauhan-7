@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Chauhan</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F93E4F&width=435&lines=Passionate+Developer+%7C+Programmer;Exploring+Fullstack+%7C+React+Native;Transforming+Ideas+into+Code" alt="Typing SVG" />
